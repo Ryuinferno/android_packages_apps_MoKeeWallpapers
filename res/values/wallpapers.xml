@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>4th_anniversary</item>
+        <item>fourth_anniversary</item>
         <item>mauve</item>
         <item>dystopia</item>
         <item>theicestorm</item>
@@ -29,7 +29,7 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>MoKee Forum 4th Anniversary - MoKee OpenSource Team</item>
+        <item>MoKee Forum's 4th Anniversary - MoKee OpenSource Team</item>
         <item>Mauve - Mathew Hanley</item>
         <item>Dystopia - Mathew Hanley</item>
         <item>The Ice Storm - Henry Mason</item>
