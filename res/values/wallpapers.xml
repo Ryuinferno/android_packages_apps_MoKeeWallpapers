@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2013 The CyanogenMod Project
+     Copyright (C) 2014 The MoKee OpenSource Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,13 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>quartz</item>
-        <item>hexography_blue</item>
-        <item>network</item>
-        <item>hextract</item>
-        <item>heresjohnny</item>
-        <item>hexography_salmon</item>
-        <item>hanksite</item>
+        <item>4th_anniversary</item>
         <item>mauve</item>
         <item>dystopia</item>
         <item>theicestorm</item>
@@ -35,13 +29,7 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Quartz - Shane Long</item>
-        <item>Hexography Blue - Asher Simonds</item>
-        <item>Network - Shane Long</item>
-        <item>Hextract - Asher Simonds</item>
-        <item>Here\'s Johnny! - Shane Long</item>
-        <item>Hexography Salmon - Asher Simonds</item>
-        <item>Hanksite - Shane Long</item>
+        <item>MoKee Forum 4th Anniversary - MoKee OpenSource Team</item>
         <item>Mauve - Mathew Hanley</item>
         <item>Dystopia - Mathew Hanley</item>
         <item>The Ice Storm - Henry Mason</item>

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.wallpapers;
+package com.mokee.wallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
